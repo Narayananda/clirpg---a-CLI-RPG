@@ -164,7 +164,6 @@ def pick_up_item(item:str,attributes:dict, inventory:list): # Players should be 
 
 
 
-
 print('\n---------------WELCOME TO THIS CLIRPG---------------')
 player_name = ''
 accept = 'n'
